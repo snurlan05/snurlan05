@@ -33,7 +33,7 @@ Skills from coursework and work experience, verified on my résumé and portfoli
 
 ### [PayGuard](https://github.com/snurlan05/payguard-fraud-detection)
 
-AI pre-payment fraud prevention (Ignition Hacks V7, Fintech Track). Upload an invoice, review it against vendor history, and get a deterministic risk score (0–100) with AI contextual insights, manager approval, and a dispute kit. Rebuilt as a standalone React + Vite app from the original Base44 prototype; demo invoice APP-1093 scores 90/100 (High Risk).
+Deterministic, rule-based pre-payment fraud screening (Ignition Hacks V7, Fintech Track). Upload an invoice, review it against vendor history, and get a deterministic risk score (0–100) with rule-generated contextual explanations, manager approval, and a dispute kit. Rebuilt as a standalone React + Vite app from the original Base44 prototype; demo invoice APP-1093 scores 90/100 (High Risk).
 
 ### [Form-ulation](https://github.com/snurlan05/form-ulation)
 
